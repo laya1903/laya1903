@@ -1,5 +1,12 @@
 Laya-Cybersecurity-Portfolio
 
+Professional Statements
+
+Cybersecurity Enthusiast | Embedded Systems & Risk Management | Linux & SQL Practitioner
+
+I am an electronics and communication engineering graduate with a strong foundation in embedded systems and cybersecurity. With hands-on experience in microcontroller programming, risk management, and security frameworks, I am passionate about protecting digital assets through proactive security measures. My expertise includes working with Linux, SQL, and cybersecurity controls, complemented by practical experience in embedded programming and digital circuit design.
+
+This portfolio showcases my projects, research, and practical applications in cybersecurity, including risk assessments, security automation scripts, and solutions to real-world security challenges. I am continuously expanding my knowledge and skills to contribute effectively to the field of cybersecurity.
 
 
 
@@ -11,19 +18,6 @@ Laya-Cybersecurity-Portfolio
 
 
 
-## Hi there 👋
 
-<!--
-**laya1903/laya1903** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
