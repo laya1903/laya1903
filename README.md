@@ -8,6 +8,15 @@ I am an electronics and communication engineering graduate with a strong foundat
 
 This portfolio showcases my projects, research, and practical applications in cybersecurity, including risk assessments, security automation scripts, and solutions to real-world security challenges. I am continuously expanding my knowledge and skills to contribute effectively to the field of cybersecurity.
 
+PORTFOLIO
+
+I have developed a cybersecurity portfolio showcasing various tasks and projects completed during my journey to earn the Google Cybersecurity Professional Certificate. This program has provided insights into:
+
+Programming for cybersecurity tasks
+Frameworks and controls that inform security operations
+SIEM tools for cybersecurity
+Detecting and responding to incidents using an intrusion detection system
+Performing packet capture and analysis
 
 
 
